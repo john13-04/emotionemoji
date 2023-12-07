@@ -1,0 +1,3 @@
+opencv-python
+deepface
+face_recognition
